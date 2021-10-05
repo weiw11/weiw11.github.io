@@ -7,6 +7,10 @@
   height: 3.5rem;
 }
 
+.project-image {
+  max-height: 300px;
+}
+
 a.nav-link.active  {
   color: white;
 }
